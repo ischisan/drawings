@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T12:40:49.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1_5CPgdd_V7eC1U6ux-2" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T12:43:39.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XL16K4XE3al1tsdK__fT" version="19.0.2" type="github">
   <diagram id="yziPRCR5f-JbaZi1jgxe" name="Page-1">
     <mxGraphModel dx="906" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,17 +41,20 @@
         <mxCell id="h8FtxE-7rcOeHejVIQH1-15" value="Schmutz" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/brush-set-free/512/leaf_cleaning_stick-128.png" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
           <mxGeometry x="370" y="156" width="108" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="h8FtxE-7rcOeHejVIQH1-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/brush-set-free/512/Cleaning_Brush-128.png;rotation=30;" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
-          <mxGeometry x="239.68" y="62.96000000000001" width="60" height="60" as="geometry" />
+        <mxCell id="h8FtxE-7rcOeHejVIQH1-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/brush-set-free/512/Cleaning_Brush-128.png;rotation=120;" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
+          <mxGeometry x="250" y="38.45" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8FtxE-7rcOeHejVIQH1-18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rotation=-65;" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
-          <mxGeometry x="250" y="122.18" width="30" height="60" as="geometry" />
+        <mxCell id="h8FtxE-7rcOeHejVIQH1-18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rotation=5;" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
+          <mxGeometry x="180" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8FtxE-7rcOeHejVIQH1-21" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
-          <mxGeometry x="280" y="50" width="30" height="60" as="geometry" />
+          <mxGeometry x="299.68" y="62.18" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8FtxE-7rcOeHejVIQH1-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/pidginsmilies/poop.png" parent="h8FtxE-7rcOeHejVIQH1-11" vertex="1">
           <mxGeometry x="231" y="207" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="vm2v0KhNp9MHXS_t0f2b-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/brush-set-free/512/Cleaning_Brush-128.png;rotation=-105;" vertex="1" parent="h8FtxE-7rcOeHejVIQH1-11">
+          <mxGeometry x="200" y="19.22" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
